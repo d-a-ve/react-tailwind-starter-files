@@ -36,7 +36,6 @@ module.exports = {
       "error",
       {
         singleQuote: false,
-        parser: "flow",
       },
     ],
   },
