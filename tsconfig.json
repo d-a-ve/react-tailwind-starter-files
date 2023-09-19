@@ -30,7 +30,7 @@
       "@routes/*": ["./routes/*"],
       "@utils/*": ["./utils/*"],
       "@pages/*": ["./pages/*"],
-      "@types/*": ["./types/*"],
+      "@myTypes/*": ["./myTypes/*"],
 
       "@constants": ["./constants"]
     }
