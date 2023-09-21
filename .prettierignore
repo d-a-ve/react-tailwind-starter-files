@@ -3,7 +3,7 @@
 **/*.ejs
 **/*.html
 
-
+vite-env.d.ts
 /node_modules
 
 /config
